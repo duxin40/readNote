@@ -1,0 +1,2 @@
+# readNote
+read Note work
